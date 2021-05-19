@@ -3,4 +3,4 @@
 
 Link para vídeo do teste do reconhecimento facial realizado pelo Grupo 9:
 
-<https://drive.google.com/file/d/1yiNmRvDLKdQIhGh-AL_65GomOmdNLijY/view>
+[Reconhecendo membros do grupo](https://drive.google.com/file/d/1i8FAGyU9YwMUhhrCA1wMIgSvdPpuvL9Y/view?usp=sharing)
